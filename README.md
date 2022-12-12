@@ -7,7 +7,7 @@
 
 ### What is libft?
 
-Libft is an individual project at [42][1] that requieres us to re-create some standard C library functions for future projects, and have a deeper understanding of data structures and basic algorithms. At 42 we are not allowed to use some standard libraries on our projects, so we have to keep growing this libary with our own functions as we go farther in the program.
+Libft is an individual project at [42] that requieres us to re-create some standard C library functions for future projects, and have a deeper understanding of data structures and basic algorithms. At 42 we are not allowed to use some standard libraries on our projects, so we have to keep growing this libary with our own functions as we go farther in the program.
 
 ### What's in it?
 
@@ -16,7 +16,6 @@ There are 4 sections:
 1.  **Libc Functions:** Some of the standard C functions
 2.  **Additional functions:** Functions that will be useful for later projects
 3.  **Bonus Functions:** Functions that will be useful for linked list manipulation
-4.  **Personal Functions:** Functions I believe will be useful later.
 
 ### List of functions
 Libc functions | Additional functions | Bonus Functions
